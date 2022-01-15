@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KrishPatel1205
-- 👀 I’m interested in Python, C#, C++
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on anything related to Python or C#
+- 👀 I’m interested in Python, C#
+- 🌱 I’m currently learning C++
 - 📫 thegreatkrishpatel@gmail.com
 
 <!---
