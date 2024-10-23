@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 [![An image of @krishpatel1205's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishpatel1205)](https://holopin.io/@krishpatel1205)
 [![https://gssoc.girlscript.tech/badges/1.png?imwidth=256](https://gssoc.girlscript.tech/badges/1.png?imwidth=256)](https://gssoc.girlscript.tech/badges/1.png?imwidth=256)
-[![Explorer Badge](https://gssoc.girlscript.tech/leaderboard)](https://gssoc.girlscript.tech/badges/2.png?imwidth=256)
+[![Explorer Badge](https://gssoc.girlscript.tech/badges/2.png?imwidth=256)](https://gssoc.girlscript.tech/badges/2.png?imwidth=256)
