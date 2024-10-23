@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrishPatel1205
 - 👀 I’m interested in C++, Python and Web Development
 - 🌱 I’m currently learning Advanced Data Structures and Algorithms
-- 🇺🇸 I'm from the US
+- 🇺🇸 I'm from the US living in India
 - 📫 thegreatkrishpatel@gmail.com
 
 <!---
