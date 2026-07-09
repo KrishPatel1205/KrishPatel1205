@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Advanced Data Structures and Algorithms
 - 🇺🇸 I'm from the US living in India
 - 📫 pkrish149@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/krishpatel1205/)
-- [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/krishpatel1205/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishpatel1205/)
 
 
 <!---
